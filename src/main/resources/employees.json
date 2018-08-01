@@ -1,0 +1,29 @@
+[
+  {
+    "empId": "rirani",
+    "jobTitleName": "Developer",
+    "firstName": "Romin",
+    "lastName": "Irani",
+    "region": "CA",
+    "emailAddress": "romin.k.irani@gmail.com",
+    "salary": 100
+  },
+  {
+    "empId": "nirani",
+    "jobTitleName": "Developer",
+    "firstName": "Neil",
+    "lastName": "Irani",
+    "region": "CA",
+    "emailAddress": "neilrirani@gmail.com",
+    "salary": 200
+  },
+  {
+    "empId": "thanks",
+    "jobTitleName": "Program Directory",
+    "firstName": "Tom",
+    "lastName": "Hanks",
+    "region": "CA",
+    "emailAddress": "tomhanks@gmail.com",
+    "salary": 150
+  }
+]
